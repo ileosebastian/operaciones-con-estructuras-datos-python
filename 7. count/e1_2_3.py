@@ -5,7 +5,6 @@ numbers = [
     randint(1,101) for n in range(1000)
 ]
 
-
 # ---- EJERCICIO 1:
 print("\n--------- EJERCICIO 1: ---------")
 

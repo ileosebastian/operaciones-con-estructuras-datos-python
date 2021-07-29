@@ -64,7 +64,6 @@ def print_books(books): # apila y desapila libros
         print("\t" + b)
         tmp.append(b)
     return  tmp
-    
         
 print("La lista de libros a leer esta vacia.")
 flag = True
